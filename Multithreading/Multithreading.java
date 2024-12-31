@@ -39,8 +39,5 @@ public class Multithreading {
             Thread t2 = new Thread(new Thread2());
             t2.start();
         }
-
     }
-
-
 }

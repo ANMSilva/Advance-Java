@@ -10,5 +10,4 @@ public class Thread2 implements Runnable {
             throw new RuntimeException(e);
         }
     }
-
 }
