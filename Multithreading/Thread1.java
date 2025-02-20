@@ -10,5 +10,4 @@ public class Thread1 extends Thread {
             throw new RuntimeException(e);
         }
     }
-
 }
